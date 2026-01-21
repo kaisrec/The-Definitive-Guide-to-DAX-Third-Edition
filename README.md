@@ -1,4 +1,4 @@
-The Definitive Guide to DAX is an authoritative resource for mastering the DAX language, which is pivotal for creating measures for semantic models in Microsoft Power BI, Fabric, Analysis Services, and Excel.
+## The Definitive Guide to DAX is an authoritative resource for mastering the DAX language, which is pivotal for creating measures for semantic models in Microsoft Power BI, Fabric, Analysis Services, and Excel.
 
 With years of experience since the inception of Power Pivot, Alberto Ferrari and Marco Russo offer a comprehensive reference that navigates through the unique and complex concepts of DAX, making it an essential tool for BI professionals. This third edition updates you with the latest features and provides a framework for writing efficient DAX code, enhancing your ability to customize calculations in data models. You will gain the skills necessary to understand and apply advanced DAX concepts, structure code in user-defined functions, and leverage new calendars for time intelligence calculations.
 
